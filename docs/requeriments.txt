@@ -1,0 +1,1 @@
+tk                # Tkinter já vem com o Python (no Windows/macOS), mas pode ser listado para clareza
